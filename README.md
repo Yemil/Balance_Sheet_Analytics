@@ -1,4 +1,4 @@
-# Balance_Sheet_Analytics
+![image](https://github.com/Yemil/Balance_Sheet_Analytics/assets/25322895/2395b5e7-d00e-4ec7-9576-d905648d906a)# Balance_Sheet_Analytics
 A Power BI dashboard displaying numerous key performance indicators (KPIs) related to balance sheet. The dashboard provides vital data and visualisations to assist monitor and analyse the balance sheet.
 
 
@@ -14,3 +14,5 @@ Total Assets and Liabilities
 Revenue in Each Month
 
 And Various Slicers to dive deep in to the Analytics
+
+![image](https://github.com/Yemil/Balance_Sheet_Analytics/assets/25322895/deb4b388-036f-4cbc-8688-68ddf1ec0d48)
