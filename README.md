@@ -11,8 +11,8 @@ Ratios containing
 3.Debt-Equity Ratio
 Working Capital
 Total Assets and Liabilities
-Revenue in Each Month
+Liabilities in Each Month
 
 And Various Slicers to dive deep in to the Analytics
+![image](https://github.com/Yemil/Balance_Sheet_Analytics/assets/25322895/b0080517-1a3c-4d58-86e7-4b1f86e4cad4)
 
-![image](https://github.com/Yemil/Balance_Sheet_Analytics/assets/25322895/deb4b388-036f-4cbc-8688-68ddf1ec0d48)
